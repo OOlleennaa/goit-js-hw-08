@@ -1,6 +1,6 @@
 
 import Player from '@vimeo/player';
-// import throttle from 'lodash.throttle';
+import throttle from 'lodash.throttle';
 // const throttle = require('lodash.throttle');
 const CURRENT_TIME_KEY = 'videoplayer-current-time';
 
